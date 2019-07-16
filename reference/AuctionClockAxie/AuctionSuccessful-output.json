@@ -1,0 +1,38 @@
+{
+  "address": "0xF4985070Ce32b6B1994329DF787D1aCc9a2dd9e2",
+  "blockHash": "0x6341081debea3f0a322b5e5549e06d7e1a22705b7959362b1c65b09b91151fe1",
+  "blockNumber": 8142946,
+  "logIndex": 56,
+  "removed": false,
+  "transactionHash": "0x618c9b7db7bdfc1fb34ee45ba19a97161ffcaf575d5fe632e39112cead48f44a",
+  "transactionIndex": 74,
+  "id": "log_0x2355b12c182a7e98f4479870fc0f16f943ba9665fe348c2c4ebe44857bc1fb98",
+  "returnValues": {
+    "0": "0xF5b0A3eFB8e8E4c201e2A935F110eAaF3FFEcb8d",
+    "1": {
+      "_hex": "0x0114c2"
+    },
+    "2": {
+      "_hex": "0x2277e46fed1f8f"
+    },
+    "3": "0x288bf6134BeB79D63173A13d65bc92F4EBD718B2",
+    "_nftAddress": "0xF5b0A3eFB8e8E4c201e2A935F110eAaF3FFEcb8d",
+    "_tokenId": {
+      "_hex": "0x0114c2"
+    },
+    "_totalPrice": {
+      "_hex": "0x2277e46fed1f8f"
+    },
+    "_winner": "0x288bf6134BeB79D63173A13d65bc92F4EBD718B2"
+  },
+  "event": "AuctionSuccessful",
+  "signature": "0x6c00bb44a64da29b6a73920d50ff280237d277bda3e1f3cdf4e24392e6839efe",
+  "raw": {
+    "data": "0x000000000000000000000000000000000000000000000000002277e46fed1f8f000000000000000000000000288bf6134beb79d63173a13d65bc92f4ebd718b2",
+    "topics": [
+      "0x6c00bb44a64da29b6a73920d50ff280237d277bda3e1f3cdf4e24392e6839efe",
+      "0x000000000000000000000000f5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+      "0x00000000000000000000000000000000000000000000000000000000000114c2"
+    ]
+  }
+}
